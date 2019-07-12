@@ -24,7 +24,7 @@ import org.apache.dubbo.admin.model.domain.MethodMetadata;
 import org.apache.dubbo.admin.model.dto.ServiceTestDTO;
 import org.apache.dubbo.admin.service.ProviderService;
 import org.apache.dubbo.admin.service.impl.GenericServiceImpl;
-import org.apache.dubbo.common.Constants;
+import com.alibaba.dubbo.common.Constants;
 import org.apache.dubbo.metadata.definition.model.FullServiceDefinition;
 import org.apache.dubbo.metadata.definition.model.MethodDefinition;
 import org.apache.dubbo.metadata.identifier.MetadataIdentifier;

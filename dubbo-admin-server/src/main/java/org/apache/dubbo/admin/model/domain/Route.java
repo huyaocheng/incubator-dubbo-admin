@@ -19,7 +19,7 @@ package org.apache.dubbo.admin.model.domain;
 
 
 import org.apache.dubbo.admin.common.util.Tool;
-import org.apache.dubbo.common.Constants;
+import com.alibaba.dubbo.common.Constants;
 import org.apache.dubbo.common.URL;
 
 import java.util.List;

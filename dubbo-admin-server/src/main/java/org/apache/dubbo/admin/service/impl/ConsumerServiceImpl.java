@@ -20,7 +20,7 @@ import org.apache.dubbo.admin.common.util.Pair;
 import org.apache.dubbo.admin.common.util.SyncUtils;
 import org.apache.dubbo.admin.model.domain.Consumer;
 import org.apache.dubbo.admin.service.ConsumerService;
-import org.apache.dubbo.common.Constants;
+import com.alibaba.dubbo.common.Constants;
 import org.apache.dubbo.common.URL;
 import org.apache.dubbo.metadata.identifier.MetadataIdentifier;
 import org.springframework.stereotype.Component;
